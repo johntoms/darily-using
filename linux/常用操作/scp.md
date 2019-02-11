@@ -1,28 +1,4 @@
-# 常用操作
-
-## jetbrains for python
-
-### 多行注释   Crtl + /
-
-
-
-## 云盘的区别
-
-## 发展历史
-
-```markdown
-1. 最开始就单纯的叫做云盘（在飞天虚拟技术上），云盘存在有三种冗余，数据安全性较高，但读写的IOPS无法达到高性能需求。
-2. 后来加入了本地云盘，本地云盘的读写性能有所提高，但失去了冗余的特性，数据安全性太低后来放弃了本地云盘。
-3. 
-```
-
-
-
-## Linux
-
-### SCP 远程复制
-
-> scp
+# scp
 
 ```shell
 scp [-1246BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
@@ -127,9 +103,3 @@ scp -P 4588 remote@www.runoob.com:/usr/local/sin.sh /home/administrator
 ```
 
  2.使用scp命令要确保使用的用户具有可读取远程服务器相应文件的权限，否则scp命令是无法起作用的
-
-
-
-XPXVT7268734853
-201807170027733
-

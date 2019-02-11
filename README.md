@@ -1,4 +1,4 @@
-# 常用操作命令总结
+# 常用操作总结
 - git
 - linux
 - markdown

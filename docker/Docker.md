@@ -42,3 +42,9 @@ $ docker image ls
 $ docker image rm nginx
 ```
 
+# 运行已经创建好的容器
+
+```shell
+docker exec -it pwc-mysql /bin/bash
+```
+

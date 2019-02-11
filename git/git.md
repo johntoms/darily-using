@@ -1,5 +1,7 @@
 # git
 
+[TOC]
+
 ## git 简介
 
 > git 是什么？
@@ -322,6 +324,30 @@ $ git revert [commit]
 $ git stash
 $ git stash pop
 ```
+
+## git 常见场景
+
+### git 删除远程已经推送过的文件或者文件夹
+
+1. 把github上的文件删除，但是本地仓库里的文件
+
+   ```bash
+   
+   git rm --cached filename/-r directory
+   git commit "xxxx"
+   git push
+   ```
+
+2. 删除远程code 文件夹,本地保留
+
+   ```bash
+   ## 注意删除文件夹时要带上 -r 参数
+   git rm --cached -r code
+   git commit -m "delete directory"
+   git push
+   ```
+
+   
 
 ## 参考链接
 
