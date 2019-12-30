@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9c3c173-82e2-47f2-8464-9821ba81e29e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b9c3c173-82e2-47f2-8464-9821ba81e29e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,18 +10,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysql/备份.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="2950">
-                <caret line="118" selection-start-line="118" selection-end-line="118" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysql/rds备份还原到自建数据库.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
@@ -64,11 +50,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/linux/software-install/vim-config.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysql/SQL优化.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="392">
+                <caret line="159" selection-start-line="159" selection-end-line="159" />
+              </first_editor>
               <second_editor />
             </state>
           </provider>
@@ -162,6 +160,7 @@
         <option value="$PROJECT_DIR$/linux/常用操作/curl.md" />
         <option value="$PROJECT_DIR$/linux/常用操作/linux 上建立用户并分配权限.md" />
         <option value="$PROJECT_DIR$/linux/software-install/ldap 安装记录.md" />
+        <option value="$PROJECT_DIR$/mysql/SQL优化.md" />
       </list>
     </option>
   </component>
@@ -177,6 +176,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -245,7 +245,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -288,17 +287,17 @@
       <option name="presentableId" value="Default" />
       <updated>1549870913160</updated>
       <workItem from="1576723180341" duration="470000" />
+      <workItem from="1577700785666" duration="138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="470000" />
+    <option name="totallyTimeSpent" value="608000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.123931624" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12600969" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -310,8 +309,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.493895" visible="true" weight="0.23406479" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.506105" side_tool="true" visible="true" weight="0.23406479" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4927302" visible="true" weight="0.23338048" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5072698" side_tool="true" visible="true" weight="0.23338048" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -325,7 +324,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/git/gitlab搭建.md" />
     <entry file="file://$PROJECT_DIR$/linux/常用操作/文件操作命令.md" />
     <entry file="file://$PROJECT_DIR$/linux/常用操作/基础命令.md" />
     <entry file="file://$PROJECT_DIR$/mysql/实操.md" />
@@ -494,7 +492,7 @@
     <entry file="file://$PROJECT_DIR$/mysql/备份.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2950">
+          <first_editor relative-caret-position="2360">
             <caret line="118" selection-start-line="118" selection-end-line="118" />
           </first_editor>
           <second_editor />
@@ -525,6 +523,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/考试.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/常用脚本/JavaPostDingtalkMessage.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -547,7 +553,7 @@
     <entry file="file://$PROJECT_DIR$/常用脚本/superspeed.sh">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/考试.md">
+    <entry file="file://$PROJECT_DIR$/linux/software-install/vim-config.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -555,10 +561,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/linux/software-install/vim-config.md">
+    <entry file="file://$PROJECT_DIR$/mysql/SQL优化.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="392">
+            <caret line="159" selection-start-line="159" selection-end-line="159" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>

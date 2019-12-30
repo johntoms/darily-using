@@ -156,4 +156,5 @@ SELECT .. FROM  DEPARTMENT  WHERE  DEPT_CODE >=0;
 
 union具有去重的操作，增加了计算时间。union all不需要去重，但会包含相同记录。同样功能下，首选union all操作。
 
-[原文链接](https://www.cnblogs.com/xupccc/p/9661972.html)
+- [原文链接](https://www.cnblogs.com/xupccc/p/9661972.html)
+- [SQL优化 友情链接](https://www.cnblogs.com/dukuan/p/9486166.html)
