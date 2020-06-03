@@ -1,103 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9c3c173-82e2-47f2-8464-9821ba81e29e" name="Default" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="b9c3c173-82e2-47f2-8464-9821ba81e29e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/darily-using.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/darily-using.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linux/software-install/docker环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/software-install/docker环境搭建.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysql/rds备份还原到自建数据库.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysql/常用命令.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysql/常用繁琐命令.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mysql/考试.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/linux/software-install/vim-config.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mysql/SQL优化.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="392">
-                <caret line="159" selection-start-line="159" selection-end-line="159" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/常用脚本/JavaPostDingtalkMessage.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/常用脚本/SendEmail.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/常用脚本/JavaPrintout.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/常用脚本/superspeed.sh">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,145 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/linux/software-install/gitlab搭建.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/linux/常见名词解释/NFS.md" />
-        <option value="$PROJECT_DIR$/linux/常见名词解释/README.md" />
-        <option value="$PROJECT_DIR$/linux/linux常见端口.md" />
-        <option value="$PROJECT_DIR$/linux/常见名词解释/VPN.md" />
-        <option value="$PROJECT_DIR$/linux/常见名词解释/IPSec协议.md" />
-        <option value="$PROJECT_DIR$/linux/常见名词解释/DevOps.md" />
-        <option value="$PROJECT_DIR$/linux/常见名词解释/CheckSum.md" />
-        <option value="$PROJECT_DIR$/linux/常见名词解释/Hadoop.md" />
-        <option value="$PROJECT_DIR$/常用脚本/superspeed.sh" />
-        <option value="$PROJECT_DIR$/常用脚本/JavaPrintout.py" />
-        <option value="$PROJECT_DIR$/linux/常见名词解释/LDAP.md" />
-        <option value="$PROJECT_DIR$/linux/software-install/docker环境搭建.md" />
-        <option value="$PROJECT_DIR$/linux/常用操作/scp.md" />
-        <option value="$PROJECT_DIR$/linux/常用操作.md" />
-        <option value="$PROJECT_DIR$/linux/常见名词解释/云盘的区别.md" />
-        <option value="$PROJECT_DIR$/linux/常用操作/系统服务启动设置.md" />
-        <option value="$PROJECT_DIR$/disc/android-item.md" />
-        <option value="$PROJECT_DIR$/mysql/DBA军规.md" />
-        <option value="$PROJECT_DIR$/常用脚本/JavaPostDingtalkMessage.py" />
-        <option value="$PROJECT_DIR$/linux/software-install/shadowsocks-vpn搭建.md" />
-        <option value="$PROJECT_DIR$/linux/常用操作/基础命令.md" />
-        <option value="$PROJECT_DIR$/linux/常用操作/文件操作命令.md" />
-        <option value="$PROJECT_DIR$/常用脚本/SendEmail.py" />
-        <option value="$PROJECT_DIR$/常用脚本/SendEmail.md" />
-        <option value="$PROJECT_DIR$/spider/urllib2.md" />
-        <option value="$PROJECT_DIR$/mysql/考试.md" />
-        <option value="$PROJECT_DIR$/mysql/实操.md" />
-        <option value="$PROJECT_DIR$/mysql/percona xtrabackupex安装.md" />
-        <option value="$PROJECT_DIR$/linux/software-install/mysql5.7安装.md" />
-        <option value="$PROJECT_DIR$/mysql/mysql5.7原码安装.md" />
-        <option value="$PROJECT_DIR$/mysql/mysql主从搭建.md" />
-        <option value="$PROJECT_DIR$/mysql/mysql复习.md" />
-        <option value="$PROJECT_DIR$/mysql/root破解方法.md" />
-        <option value="$PROJECT_DIR$/mysql/rds_cpu飙高.md" />
-        <option value="$PROJECT_DIR$/mysql/备份.md" />
-        <option value="$PROJECT_DIR$/mysql/主从延迟问题.md" />
-        <option value="$PROJECT_DIR$/mysql/常用命令.md" />
-        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" />
-        <option value="$PROJECT_DIR$/mysql/utf8和utf8mb4的区别.md" />
-        <option value="$PROJECT_DIR$/git/git 初始化配置.md" />
-        <option value="$PROJECT_DIR$/git/python下的gitignore文件模板.md" />
-        <option value="$PROJECT_DIR$/mysql/你应该了解的 MySQL 细节.md" />
-        <option value="$PROJECT_DIR$/linux/常用操作/Linux下如何查看硬件信息.md" />
-        <option value="$PROJECT_DIR$/linux/常用操作/curl.md" />
-        <option value="$PROJECT_DIR$/linux/常用操作/linux 上建立用户并分配权限.md" />
-        <option value="$PROJECT_DIR$/linux/software-install/ldap 安装记录.md" />
-        <option value="$PROJECT_DIR$/mysql/SQL优化.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
+  <component name="ProjectId" id="1a78vKHNWIDJvy8Wi3DhBRtjzyh" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-              <item name="disc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-              <item name="docker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-              <item name="git" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-              <item name="software-install" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-              <item name="linux" type="462c0819:PsiDirectoryNode" />
-              <item name="常用操作" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-              <item name="markdown" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-              <item name="redis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="darily-using" type="b2602c69:ProjectViewProjectNode" />
-              <item name="darily-using" type="462c0819:PsiDirectoryNode" />
-              <item name="常用脚本" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
@@ -264,17 +50,56 @@
       <recent name="$PROJECT_DIR$/linux/software-install" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="RunManager" selected="Python.test2">
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="darily-using" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tmp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="darily-using" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tmp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tmp/test2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <item itemvalue="Python.test2" />
+        <item itemvalue="Python.test1" />
       </list>
-    </option>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -288,289 +113,47 @@
       <updated>1549870913160</updated>
       <workItem from="1576723180341" duration="470000" />
       <workItem from="1577700785666" duration="138000" />
+      <workItem from="1577700995756" duration="80000" />
+      <workItem from="1586075513057" duration="1234000" />
+      <workItem from="1587000102083" duration="5241000" />
+      <workItem from="1587017087324" duration="235000" />
+      <workItem from="1587091025584" duration="13129000" />
+      <workItem from="1587476589567" duration="2650000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="608000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12600969" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4927302" visible="true" weight="0.23338048" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5072698" side_tool="true" visible="true" weight="0.23338048" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/linux/常用操作/文件操作命令.md" />
-    <entry file="file://$PROJECT_DIR$/linux/常用操作/基础命令.md" />
-    <entry file="file://$PROJECT_DIR$/mysql/实操.md" />
-    <entry file="file://$PROJECT_DIR$/mysql/percona xtrabackupex安装.md" />
-    <entry file="file://$PROJECT_DIR$/linux/software-install/mysql5.7安装.md" />
-    <entry file="file://$PROJECT_DIR$/mysql/mysql5.7原码安装.md" />
-    <entry file="file://$PROJECT_DIR$/mysql/mysql主从搭建.md" />
-    <entry file="file://$PROJECT_DIR$/mysql/mysql复习.md" />
-    <entry file="file://$PROJECT_DIR$/mysql/root破解方法.md" />
-    <entry file="file://$PROJECT_DIR$/mysql/rds_cpu飙高.md" />
-    <entry file="file://$PROJECT_DIR$/mysql/主从延迟问题.md" />
-    <entry file="file://$PROJECT_DIR$/mysql/DBA军规.md" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md" />
-    <entry file="file://$PROJECT_DIR$/mysql/utf8和utf8mb4的区别.md" />
-    <entry file="file://$PROJECT_DIR$/linux/常用操作/linux内存机制.md" />
-    <entry file="file://$PROJECT_DIR$/linux/常见名词解释/NFS.md" />
-    <entry file="file://$PROJECT_DIR$/git/git 初始化配置.md" />
-    <entry file="file://$PROJECT_DIR$/git/python下的gitignore文件模板.md" />
-    <entry file="file://$PROJECT_DIR$/docker/Docker.md" />
-    <entry file="file://$PROJECT_DIR$/docker/docker环境安装.md" />
-    <entry file="file://$PROJECT_DIR$/linux/software-install/ucloud-monitor.md" />
-    <entry file="file://$PROJECT_DIR$/mysql/binlog日志.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/你应该了解的 MySQL 细节.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/常用操作/Linux下如何查看硬件信息.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/software-install/ubuntu下搭建LAMP.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/常用操作/curl.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/urllib2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spider/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redis/Redis.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/software-install/FTP虚拟用户搭建.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-6338" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/software-install/docker环境搭建.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-438" />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/git/git.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docker/study-notes/基本概念.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/disc/android-item.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/disc/安全相关网站.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="140">
-            <caret line="7" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/software-install/ldap 安装记录.md" />
-    <entry file="file://$PROJECT_DIR$/linux/常用操作/linux 上建立用户并分配权限.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1880">
-            <caret line="94" selection-start-line="94" selection-end-line="94" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/markdown/mardown常用语法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/software-install/open-ldap学习总结.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/备份.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="2360">
-            <caret line="118" selection-start-line="118" selection-end-line="118" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/rds备份还原到自建数据库.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/常用命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/常用繁琐命令.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/考试.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/常用脚本/JavaPostDingtalkMessage.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/常用脚本/SendEmail.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="794">
-          <caret line="497" lean-forward="true" selection-start-line="497" selection-end-line="497" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/常用脚本/JavaPrintout.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/常用脚本/superspeed.sh">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/linux/software-install/vim-config.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mysql/SQL优化.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="392">
-            <caret line="159" selection-start-line="159" selection-end-line="159" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1659" height="287" key="GridCell.Tab.0.bottom" timestamp="1587712376026">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="287" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587712376026" />
+    <state width="1659" height="287" key="GridCell.Tab.0.center" timestamp="1587712376024">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="287" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587712376024" />
+    <state width="1659" height="287" key="GridCell.Tab.0.left" timestamp="1587712376021">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="287" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587712376021" />
+    <state width="1659" height="287" key="GridCell.Tab.0.right" timestamp="1587712376026">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1659" height="287" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587712376026" />
   </component>
   <component name="masterDetails">
     <states>

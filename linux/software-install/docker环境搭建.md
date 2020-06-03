@@ -58,7 +58,7 @@ systemctl enable docker  //加入开机自启
 
 （二）、问题
 
-因为之前已经安装过旧版本的docker，在安装的时候报错如下：
+1. 因为之前已经安装过旧版本的docker，在安装的时候报错如下：
 
 ```
 Transaction check error:
@@ -71,5 +71,18 @@ Transaction check error:
 ```
 sudo yum erase docker-common-2:1.12.6-68.gitec8512b.el7.centos.x86_64
 ```
+2. CentOS 8.0 安装docker 报错：Problem package docker-ce-3 19.03.4-3.el7.x86_64 require
+分析原因
+看上面的内容，说的是containerd.io >= 1.2.2-3 ，意思就是 containerd.io 的版本必须大于等于 1.2.2-3
+
+解决
+1、要么就降低docker 的版本
+
+2、如果不想降低docker 版本，那么就更新 containerd.io 的版本
+```
+wget https://download.docker.com/linux/centos/7/x86_64/edge/Packages/containerd.io-1.2.6-3.3.el7.x86_64.rpm
+yum install -y  containerd.io-1.2.6-3.3.el7.x86_64.rpm
+```
+然后重新安装最新版本的docker 即可成功安装
 
 再次安装docker。
