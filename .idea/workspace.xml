@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9c3c173-82e2-47f2-8464-9821ba81e29e" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/darily-using.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/darily-using.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linux/software-install/docker环境搭建.md" beforeDir="false" afterPath="$PROJECT_DIR$/linux/software-install/docker环境搭建.md" afterDir="false" />
-    </list>
+    <list default="true" id="b9c3c173-82e2-47f2-8464-9821ba81e29e" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
